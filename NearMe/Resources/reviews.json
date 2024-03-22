@@ -1,0 +1,248 @@
+[
+    {
+        "id": 1,
+        "name": "Ana Paula Garza",
+        "user_id": 1,
+        "restaurant_id": 1,
+        "review": "El mejor lugar de sushi en Monterrey, excelente atención, precio regular.",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": "Diego Salvador",
+        "user_id": 2,
+        "restaurant_id": 1,
+        "review": "Mex Sushi is the combination of sushi with Mexican ingredients, so this place excels at that. Traditional Japanese Sushi is not their forte, but when you want Mex Sushi, then this is great place to try: sashimi with a slide of jalapeño, the tuna tostadas, the jicama tuna tacos and my favorites: México special roll (pastor meat with cheese in a breaded roll), another good roll is the Kosmos roll made with grilled octopus and cream cheese, combined with chiles toreados in lemon soy sauce makes it a real treat. So if you are in Monterrey and want to try Mex sushi the place to visit is Nikkori.",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "name": "Nancy Granada",
+        "user_id": 3,
+        "restaurant_id": 1,
+        "review": "If you are lokking for an average sushi place with good food and nothing exceptional this is a good option. You'll find a good option with the basic sushi menu and some extra options but in general this place will make good food and it's a nice spot if you want to be there with your friends and eat.",
+        "rating": 3
+    },
+    {
+        "id": 4,
+        "name": "Ricardo Olivares",
+        "user_id": 4,
+        "restaurant_id": 2,
+        "review": "It was amazing, the service was nice, and the food was great and on time. The best thing of this place is that it offers a bunch of options if you are vegan or vegetarian.",
+        "rating": 5
+    },
+    {
+        "id": 5,
+        "name": "Diego Salvador",
+        "user_id": 2,
+        "restaurant_id": 2,
+        "review": "This is a chain restaurant in Mexico and the choices on the menu would vaguely remind you of Panera Bread. Keep in mind I avoid eating salads in restaurants in the US, let alone in Mexico. As a result my menu choices are limited. The food looks good, the service is attentive and the price is really good.",
+        "rating": 3
+    },
+    {
+        "id": 6,
+        "name": "Dolores Nieto",
+        "user_id": 5,
+        "restaurant_id": 2,
+        "review": "Great soups, some saladas are good and others are awful. Service is great, restaurant not very clean. Great Jamaica and lemonade.",
+        "rating": 3
+    },
+    {
+        "id": 7,
+        "name": "Dulce Montenegro",
+        "user_id": 6,
+        "restaurant_id": 3,
+        "review": "Me encantaron los chilaquiles, las salsas saben increíble y la atención es lo mejor.",
+        "rating": 5
+    },
+    {
+        "id": 8,
+        "name": "Ana Paula Garza",
+        "user_id": 1,
+        "restaurant_id": 3,
+        "review": "Es muy rico, pero tardan demasiado en entregarlos, no creo que valga la pena.",
+        "rating": 1
+    },
+    {
+        "id": 9,
+        "name": "Zulema Garza Sada",
+        "user_id": 7,
+        "restaurant_id": 3,
+        "review": "Estos chilaquiles nunca me fallan, son riquísimos y rápidos de comer, muy buen servicio y precios",
+        "rating": 5
+    },
+    {
+        "id": 10,
+        "name": "Gabriela Rocha",
+        "user_id": 8,
+        "restaurant_id": 4,
+        "review": "Amazing Food and Atmosphere! The university cafeteria offers a delightful array of dishes that cater to diverse tastes. From savory sandwiches to fresh salads, every bite bursts with flavor. The ambiance is cozy, perfect for unwinding between classes or catching up with friends. Highly recommended!",
+        "rating": 5
+    },
+    {
+        "id": 11,
+        "name": "Ricardo Olivares",
+        "user_id": 4,
+        "restaurant_id": 4,
+        "review": "Delicious and Affordable! As a student on a budget, finding good food at reasonable prices can be a challenge, but the university cafeteria nails it. Their menu features a variety of options that won't break the bank, and the quality is top-notch. With friendly staff and a relaxed vibe, it's the perfect place to refuel between classes. Two thumbs up!",
+        "rating": 4
+    },
+    {
+        "id": 12,
+        "name": "Valeria Pedrozo",
+        "restaurant_id": 9,
+        "user_id": 9,
+        "review": "Desilusión Total. No hay palabras para describir lo decepcionante que resulta la comida en la cafetería de la universidad. Desde la falta de sabor hasta la presentación descuidada, todo deja mucho que desear. Sumado a eso, el precio no se corresponde en absoluto con la calidad ofrecida. Definitivamente, un lugar que debe mejorar drásticamente para merecer una visita.",
+        "rating": 0
+    },
+    {
+        "id": 13,
+        "name": "Felicia Balleza",
+        "user_id": 10,
+        "restaurant_id": 5,
+        "review": "Comida coreana tradicional, se siente cocinada auténticamente. Hay una buena variedad de platos fuertes y entradas. Las porciones son algo pequeñas. Muy bien servicio, explican los platillos y qué tienen. No aceptan tarjeta.",
+        "rating" : 5
+
+    },
+    {
+        "id": 14,
+        "name": "Cindy Salazar",
+        "user_id": 11,
+        "restaurant_id": 5,
+        "review": "Food was okay except for one dish. Baked tiger prawn with garlic butter became some mashed potatoes with some tiny peeled prawns on top. Curry didnt have much gravy even though requested more. Amount of food as usual was more than sufficient. foodline",
+        "rating": 4
+    },
+    {
+        "id": 15,
+        "name": "Valeria Pedrozo",
+        "user_id": 9,
+        "restaurant_id": 5,
+        "review": "Es la primera vez que pruebo la comida coreana, si me gusto pero creo que le falta sazón, quizás así sea la comida de allá, pedimos pollo frito, tonkatsu, unos pastelitos de arroz y un sushi coreano, todo estaba rico pero yo prefiero con un poco más de condimentos y sal, tengo que ir a probar el ramen, parece que es un plato muy popular entre los comensales que estaban en ese momento en el lugar, por algo será, regresaré y les digo que tal. Si lo recomiendo pero si son como yo de seguro le pondrán salsa de soya a todo.",
+        "rating": 4
+    },
+
+    {
+        "id": 16,
+        "name": "Ricardo Olivares",
+        "user_id": 4,
+        "restaurant_id": 6,
+        "review": "I was so exited when I got to Monterrey Mexico and seeing that Timmy has came to Mexico . It was not the experience you would expect or the quality that we are just to in Canadá , coffee was weak food was cold and chewy aaaand the TimBits donuts , old and substandard ( they do sell coffe by the pound so you can make it at home ) Somebody from headquarters need to came and keep it at par unless all they want is money in which case is all good then ..... advice buy the coffee and make it at home",
+        "rating" : 1
+
+    },
+    {
+        "id": 17,
+        "name": "Valeria Pedrozo",
+        "user_id": 9,
+        "restaurant_id": 6,
+        "review": "I went there to discover because I did know this coffee shop. Its location is great and when I went there, it was crowded but the service was very efficient! I was disappointed : I took a hot chocolate, and I did not really appreciate it... I would not recommend it for hot chocolate lovers, there was too much sugar in it, for me!",
+        "rating": 3
+    },
+    {
+        "id": 18,
+        "name": "Cindy Salazar",
+        "user_id": 11,
+        "restaurant_id": 6,
+        "review": "I visited the outlet at Apodaca, Aeropuerto area. Service is good and efficient. Latte is ok, not really my favourite, my colleague said that he likes it as there is a char kind of smell and taste. I do like the sandwiches",
+        "rating": 3
+    },
+    {
+        "id": 19,
+        "name": "Ana Paula Garza",
+        "user_id": 1,
+        "restaurant_id": 7,
+        "review": "La mejor torta de chocolate con nuez!!! Encantados con la torta. Si bien no es un ambiente para niños, nos gusta mucho ir y disfrutar un rato con chocolate. Y el ambiente también se presta.",
+        "rating" : 5
+
+    },
+    {
+        "id": 20,
+        "name": "Dulce Montenegro",
+        "user_id": 6,
+        "restaurant_id": 7,
+        "review": "Como dicen la que pega primero, pega dos veces, es lo que sucedió con Starbucks en Monterrey, que ya hay tantos que parecen tiendas de conveniencia, y si el café es bueno en la mayoría de sus versiones, pero cuidado que en los endulzados se exceden de éste ingrediente,recomiendo los más simples como el cold brew, que es un café reposado en agua fría-templada , lo que le da otro sabor, la comida bien, normal, lo que recomiendo es el piadini de claras, los panes , pasteles igual bien pero muy dulces, lo que no recomiendo son las bebidas raras de colores y así, y bueno si esta sobre valuado el costo del café, a menos que tengas la tarjeta de lealtad que te da promociones.",
+        "rating": 4
+    },
+    {
+        "id": 21,
+        "name": "Dolores Nieto",
+        "user_id": 5,
+        "restaurant_id": 7,
+        "review": "Double Mocha Blanco w/whip hit the spot after a long day ... Much needed to recharge Unable to smoke @ location :( But that is okay....the staff are friendly and the service is stellar.",
+        "rating": 5
+    },
+
+    {
+        "id": 22,
+        "name": "Diego Salvador",
+        "user_id": 2,
+        "restaurant_id": 8,
+        "review": "I have to eat dairy free. It is always difficult traveling and eating out. My family decided on dinner at Yamato. Our server was more than accommodating. She went above and beyond. The food was all delicious. We really enjoyed the hibachi.",
+        "rating": 5
+    },
+    {
+        "id": 23,
+        "name": "Nancy Granada",
+        "user_id": 3,
+        "restaurant_id": 8,
+        "review": "Very good options for both sushi and non-sushi lovers. My wife was able to find something she liked while I ate sushi to my heart's content. There were plenty of good choices of nigiri and rolls. The fish is fresh and well prepared. A great place to enjoy alone or with a group. The only thing I wish they did better was to keep the Ama Ebi heads in the deep fryer a bit longer, they weren't quite crispy enough.",
+        "rating": 4
+    },
+    {
+        "id": 24,
+        "name": "Gabriela Rocha",
+        "user_id": 8,
+        "restaurant_id": 8,
+        "review": "We’ve been twice now in the month we’ve been vacationing in Galveston. First time was for hibachi and second was sushi! The hibachi filet mignon was delicious! Super soft and tender meat. The wait staff was excellent, especially the second night. The waitress was so good with our two young girls. The sushi was delicious! The asparagus special was the best roll I’ve ever had. We are making sure to go back one more night for sushi before we leave! Def recommend!",
+        "rating": 5
+    },
+    {
+        "id": 25,
+        "name": "Regina Pedrozo",
+        "user_id": 12,
+        "restaurant_id": 9,
+        "review": "Hola. Muy buena comida sin embargo estaría genial que aceptarán pago con tarjeta, no se si en todas sea así pero en las que visité no aceptaron.",
+        "rating": 3
+    },
+    {
+        "id": 26,
+        "name": "Kenya del Angel",
+        "user_id": 13,
+        "restaurant_id": 9,
+        "review": "Servicio rápido, buen sabor de las hamburguesas precios accesibles, local amplio nivel medio, buena ubicación, solo falta de estacionamientos",
+        "rating": 4
+    },
+    {
+        "id": 27,
+        "name": "Sarah Murillo",
+        "user_id": 14,
+        "restaurant_id": 9,
+        "review": "Hoy realicé la compra de 2 hamburguesas en Teo Burguer Tec. Llegando a casa me encuentro que la carne está incomible, ya que estaba quemada, seca y sabía a carbón de lo quemado.Hable para quejarme y me dicen que me enviaran 2 hamburguesas a mi domicilio. Paso una hora, llegaron las hamburguesas y lo mismo. Quemadas y hasta el pan. Hace un mes pasó lo mismo en menor proporción y desde ahí consideré comprar en otro lugar de la zona Tec. Esta vez pasé por Luis Elizondo y decidí darles otra oportunidad, volveré a comprar estas hamburguesas? No, definitivamente. Me gusta comer carne, no carbón. Me gusta una hamburguesa de buen aspecto. Bajaron mucho la calidad. Y las señoritas que atienden mi recomendación es, que si un cliente se queja (al parecer no fui la única a decir del repartidor) revisa el envío y habla con el parrillero.",
+        "rating": 1
+    },
+    {
+        "id": 28,
+        "name": "Kenya del Angel",
+        "user_id": 13,
+        "restaurant_id": 8,
+        "review": "Los platillos son todos muy buenos, sabor excelente. Buen precio. Trato bastante amable. Es bastante rápido el servicio.",
+        "rating": 5
+    },
+    {
+        "id": 29,
+        "name": "Dulce Montenegro",
+        "user_id": 6,
+        "restaurant_id": 8,
+        "review": "Muy buena comida y la variedad de los platillos, me gusto ir a comer y cenar, tuve una agradable experiencia en el Lugar",
+        "rating": 4
+    },
+    {
+        "id": 30,
+        "name": "Regina Pedrozo",
+        "user_id": 12,
+        "restaurant_id": 8,
+        "review": "La verdad para cena o tarde de pasar un momento agradable y beber unas margaritas o su limonada fresa mineral esta muy refrescante y si es acompañada por algun platillo, como bonless mejor aun muy recomendado.",
+        "rating": 5
+    }
+
+]

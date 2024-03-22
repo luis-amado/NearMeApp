@@ -1,0 +1,123 @@
+[
+  {
+    "id":1,
+    "name":"Nikkori",
+    "tag":"Japanse cuisine",
+    "imageName": "nikkori",
+    "description":"Where Culinary Artistry Meets Tradition. Indulge in an exquisite fusion of Japanese flavors and contemporary flair at Nikkori. From meticulously crafted sushi rolls to sizzling hibachi delights, every dish is a masterpiece. Immerse yourself in a vibrant atmosphere where authenticity meets innovation, promising an unforgettable dining experience for all sushi aficionados and Japanese cuisine enthusiasts alike.",
+    "coordinates": {
+      "latitude": 25.650516775908578,
+      "longitude": -100.28954196291572
+    },
+    "isFavorite": false
+  },
+  {
+    "id":2,
+    "name":"Super Salads",
+    "tag":"Healthy meals",
+    "imageName": "salads",
+    "description": "Fuel Your Day with Freshness! Dive into a world of wholesome goodness at Super Salads, where each bite is a burst of flavor and nutrition. From crisp, locally sourced greens to an array of colorful toppings and homemade dressings, our salads are a celebration of health and taste. Whether you're craving a classic Caesar or a custom creation, our vibrant ingredients will leave you feeling energized and satisfied. Join us in redefining the salad experience, one bowl at a time!",
+    "coordinates": {
+      "latitude": 25.652267901504757,
+      "longitude": -100.28982323852217
+    },
+    "isFavorite": false
+  },
+  {
+    "id":3,
+    "name":"Chilaquiles TEC",
+    "tag":"Fast and cheap",
+    "imageName":"chilaquiles",
+    "description": "Fusing Flavor and Academic Excellence. Delight in the rich tapestry of Mexican cuisine while navigating your academic journey at Campus Chilaquiles. Our menu showcases a harmonious blend of traditional chilaquiles recipes with a modern twist, offering a culinary adventure that mirrors your scholarly pursuits. Whether you're seeking inspiration for your next project or simply craving a satisfying meal, our vibrant dishes are sure to ignite your taste buds and fuel your ambition. Embrace the intersection of flavor and learning with each tantalizing bite!",
+    "coordinates": {
+      "latitude": 25.65152719839415,
+      "longitude": -100.28879889547203
+    },
+    "isFavorite": false
+  },
+  {
+    "id":4,
+    "name":"TEC Food",
+    "tag":"Full meals",
+    "imageName":"tecfood",
+    "description":"Serving up Satisfying Meals. Discover a variety of hearty and delicious dishes at our university cafeteria. From classic comfort foods to global flavors, we've got something for everyone. Whether you're refueling between classes or catching up with friends, our tasty meals fuel both body and mind. Join us for a satisfying dining experience right on campus!",
+    "coordinates": {
+      "latitude": 25.65152382473463,
+      "longitude": -100.28899382644224
+    },
+    "isFavorite": false
+  },
+  {
+    "id":5,
+    "name":"Mun's Kitchen",
+    "tag":"Korean cuisine",
+    "imageName":"muns",
+    "description":"A Taste of Korea, Right Around the Corner. Experience the vibrant flavors of Korea at Mun's Kitchen. From sizzling bulgogi to savory bibimbap, our menu offers a delicious journey through Korean cuisine. Join us for an authentic dining experience where each dish is crafted with care and tradition. Whether you're a Korean food enthusiast or new to the cuisine, Mun's Kitchen invites you to savor the richness of Korean flavors, right in your neighborhood.",
+    "coordinates": {
+      "latitude": 25.648480328936685,
+      "longitude": -100.28894169711937
+    },
+    "isFavorite": false
+  },
+  {
+    "id":6,
+    "name":"Tim Hortons",
+    "tag":"Fast and drinks",
+    "imageName":"tim",
+    "description":"Tim Hortons Inc., commonly nicknamed Tim's or Timmie's, is a multinational coffeehouse and restaurant chain based in Canada with headquarters in Toronto; it serves coffee, donuts, sandwiches, and other fast-food items. It is Canada's largest quick-service restaurant chain, with 5,701 restaurants in 13 countries, as of September 2023.",
+    "coordinates": {
+      "latitude": 25.6662594,
+      "longitude": -100.2974349
+    },
+    "isFavorite": false
+  },
+  {
+    "id":7,
+    "name":"Starbucks",
+    "tag":"Fast and drinks",
+    "imageName":"starbucks",
+    "description":"Starbucks is an American company that operates the largest coffeehouse chain and one of the most recognizable brands in the world. Headquartered in Seattle, Washington, the company operates more than 35,000 stores across 80 countries (as of 2022).",
+    "coordinates": {
+      "latitude": 25.6662594,
+      "longitude": -100.2974349
+    },
+    "isFavorite": false
+  },
+  {
+    "id":8,
+    "name":"Yamato",
+    "tag":"Corean food",
+    "imageName":"yamato",
+    "description":"Traditional Japanese food from Japanese Chef Haru Kairiku, a wide variety of sushi dishes, sashimi, tempura, ramen, sukiyaki, teriyaki, rolls, donburi, sake and oriental beers",
+    "coordinates": {
+      "latitude": 25.6535585,
+      "longitude": -100.2778281
+    },
+    "isFavorite": false
+  },
+  {
+    "id":9,
+    "name":"Teo Burger",
+    "tag":"Fast",
+    "imageName":"teo",
+    "description":"Once you have enjoyed Instituto Tecnologico de Estudios Superiores de Monterrey (ITESM), visit this restaurant, which is not far away. Teo Burger Sucursal Tecnológico offers you to try some attractive American burgers. The staff is said to be pleasant here. This place is famous for its spectacular service. According to user reviews, the prices are affordable. In this place, guests enjoy a modern atmosphere. This restaurant received 4.4 according to the Google rating system.",
+    "coordinates": {
+      "latitude": 25.648983616219446,
+      "longitude": -100.2884495706985
+    },
+    "isFavorite": false
+  },
+  {
+    "id":10,
+    "name":"Chilis",
+    "tag":"American Food",
+    "imageName":"chilis",
+    "description":"Family-friendly chain offering American and Tex-Mex foods in a Southern atmosphere.",
+    "coordinates": {
+      "latitude": 25.6508957,
+      "longitude": -100.2753037
+    },
+    "isFavorite": false
+  }
+
+]
